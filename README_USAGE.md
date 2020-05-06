@@ -1,5 +1,6 @@
 # README_USAGE code challenge
 # 60 minute time frame started 9:30 PM stopped coding at 10:33 PM
+# I was able to implement full functionality for xlsx worksheets in the given timeframe however the csv portion is stil incomplete
 
 ## run the file in the command line with either a xlsx OR csv file as an argument
 
